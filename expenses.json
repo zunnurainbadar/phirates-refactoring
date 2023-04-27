@@ -1,8 +1,8 @@
 [
-  { type: type.BREAKFAST, amount: 15.20 },
-  { type: type.BREAKFAST, amount: 28.10 },
-  { type: type.LUNCH, amount: 10.20 },
-  { type: type.DINNER, amount: 16.00 },
-  { type: type.DINNER, amount: 120.20 },
-  { type: type.CAR_RENTAL, amount: 2000 }
+  { "type": "Breakfast", "amount": 15.20 },
+  { "type": "Breakfast", "amount": 28.10 },
+  { "type": "Lunch", "amount": 10.20 },
+  { "type": "Dinner", "amount": 16.00 },
+  { "type": "Dinner", "amount": 120.20 },
+  { "type": "Car Rental", "amount": 2000 }
 ]
